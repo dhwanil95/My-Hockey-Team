@@ -44,8 +44,12 @@ Redux
 React Bootstrap
 TypeScript
 
-## ScreenShots![DeleteUser](https://github.com/dhwanil95/My-Hockey-Team/assets/25331245/9bd332c5-4d21-4025-a42b-153dcf449be0)
+## ScreenShots
+
 ![EditUser](https://github.com/dhwanil95/My-Hockey-Team/assets/25331245/30075d06-437c-41a3-887b-e38877d968f5)
+
 ![TableView](https://github.com/dhwanil95/My-Hockey-Team/assets/25331245/af099dd3-0f5a-4725-95ac-9386b4fc99be)
+
 ![AddUser](https://github.com/dhwanil95/My-Hockey-Team/assets/25331245/cee3503f-8874-435b-9d3b-756d3869f32c)
 
+![DeleteUser](https://github.com/dhwanil95/My-Hockey-Team/assets/25331245/71eb9292-cf5d-455b-86ea-727e6675e0fe)
